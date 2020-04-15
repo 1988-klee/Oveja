@@ -1,0 +1,9 @@
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\oveja\oveja\bin\Debug\oveja.exe.config
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\oveja\oveja\bin\Debug\oveja.exe
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\oveja\oveja\bin\Debug\oveja.pdb
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\oveja\oveja\obj\Debug\oveja.csprojResolveAssemblyReference.cache
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\oveja\oveja\obj\Debug\oveja.Form1.resources
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\oveja\oveja\obj\Debug\oveja.Properties.Resources.resources
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\oveja\oveja\obj\Debug\oveja.csproj.GenerateResource.Cache
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\oveja\oveja\obj\Debug\oveja.exe
+C:\Users\calaf\OneDrive\Documentos\Sgdo Año IP Leones\Programacion II\Ejercicio visual\oveja\oveja\obj\Debug\oveja.pdb
